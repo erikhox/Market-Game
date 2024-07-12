@@ -109,4 +109,6 @@ for i in range(1,24*12):
         else:
             break
 
+#outputs ending message
 end(balance, holdings, temp_bal, goal, price)
+input("\npress enter to quit")

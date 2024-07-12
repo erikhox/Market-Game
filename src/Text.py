@@ -41,7 +41,6 @@ def end(bal, holding, temp_bal, temp_hold, price):
         print("\nTime in the market is always better than timing the market")
         print("\nI hope you always remember that")
         print("That you for playing my game, I hope you enjoyed :)")
-        print()
     else:
         print("\nI am very impressed that you were able to beat the goal")
         print("It is very hard to beat just holding apple")
@@ -50,4 +49,3 @@ def end(bal, holding, temp_bal, temp_hold, price):
         print("\nTime in the market is always better than timing the market")
         print("\nI hope you always remember that")
         print("That you for playing my game, I hope you enjoyed :)")
-        print()
