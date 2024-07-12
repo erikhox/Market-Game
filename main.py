@@ -111,4 +111,10 @@ for i in range(1,24*12):
 
 #outputs ending message
 end(balance, holdings, temp_bal, goal, price)
-input("\npress enter to quit")
+
+while True:
+    quit = input("\ntype 'end' to quit: ")
+    if quit == "end":
+        break
+    else:
+        continue
